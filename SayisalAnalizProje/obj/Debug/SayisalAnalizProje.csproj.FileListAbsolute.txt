@@ -1,0 +1,36 @@
+c:\users\bartu yaman\documents\visual studio 2013\Projects\SayisalAnalizProje\SayisalAnalizProje\bin\Debug\SayisalAnalizProje.exe.config
+c:\users\bartu yaman\documents\visual studio 2013\Projects\SayisalAnalizProje\SayisalAnalizProje\bin\Debug\SayisalAnalizProje.exe
+c:\users\bartu yaman\documents\visual studio 2013\Projects\SayisalAnalizProje\SayisalAnalizProje\bin\Debug\SayisalAnalizProje.pdb
+c:\users\bartu yaman\documents\visual studio 2013\Projects\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.csprojResolveAssemblyReference.cache
+c:\users\bartu yaman\documents\visual studio 2013\Projects\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.Form1.resources
+c:\users\bartu yaman\documents\visual studio 2013\Projects\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.Properties.Resources.resources
+c:\users\bartu yaman\documents\visual studio 2013\Projects\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.csproj.GenerateResource.Cache
+c:\users\bartu yaman\documents\visual studio 2013\Projects\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.exe
+c:\users\bartu yaman\documents\visual studio 2013\Projects\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.pdb
+c:\users\bartu yaman\documents\visual studio 2013\Projects\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.GrafikYontemi.resources
+c:\users\bartu yaman\documents\visual studio 2013\Projects\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.YariyaBolmeYontemi.resources
+C:\Users\BARTU YAMAN\Documents\Visual Studio 2013\Projects\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.RegulaFalseYontemi.resources
+C:\Users\BARTU YAMAN\documents\visual studio 2013\Projects\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.NewtonRaphsonYontemi.resources
+C:\Users\BARTU YAMAN\documents\visual studio 2013\Projects\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.TrapezYontemi.resources
+C:\Users\BARTU YAMAN\Documents\Visual Studio 2013\Projects\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.MatrisInverse.resources
+C:\Users\BARTU YAMAN\Documents\Visual Studio 2013\Projects\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.SimpsonYontemi.resources
+C:\Users\BARTU YAMAN\Documents\Visual Studio 2013\Projects\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.NumerikTurev.resources
+C:\Users\BARTU YAMAN\Documents\Visual Studio 2013\Projects\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.GaussEleminasyon.resources
+D:\Sayısal Analiz Projesi\SayisalAnalizProje\SayisalAnalizProje\bin\Debug\SayisalAnalizProje.exe.config
+D:\Sayısal Analiz Projesi\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.exe
+D:\Sayısal Analiz Projesi\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.pdb
+D:\Sayısal Analiz Projesi\SayisalAnalizProje\SayisalAnalizProje\bin\Debug\SayisalAnalizProje.exe
+D:\Sayısal Analiz Projesi\SayisalAnalizProje\SayisalAnalizProje\bin\Debug\SayisalAnalizProje.pdb
+D:\Sayısal Analiz Projesi\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.csprojResolveAssemblyReference.cache
+D:\Sayısal Analiz Projesi\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.Form1.resources
+D:\Sayısal Analiz Projesi\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.GaussEleminasyon.resources
+D:\Sayısal Analiz Projesi\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.GrafikYontemi.resources
+D:\Sayısal Analiz Projesi\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.MatrisInverse.resources
+D:\Sayısal Analiz Projesi\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.NewtonRaphsonYontemi.resources
+D:\Sayısal Analiz Projesi\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.NumerikTurev.resources
+D:\Sayısal Analiz Projesi\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.Properties.Resources.resources
+D:\Sayısal Analiz Projesi\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.RegulaFalseYontemi.resources
+D:\Sayısal Analiz Projesi\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.SimpsonYontemi.resources
+D:\Sayısal Analiz Projesi\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.TrapezYontemi.resources
+D:\Sayısal Analiz Projesi\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.YariyaBolmeYontemi.resources
+D:\Sayısal Analiz Projesi\SayisalAnalizProje\SayisalAnalizProje\obj\Debug\SayisalAnalizProje.csproj.GenerateResource.Cache
