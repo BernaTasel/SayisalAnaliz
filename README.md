@@ -10,7 +10,7 @@ Aracın içerisinde yer alacak yöntemler.
    - Matrisnin inversinin alınması
 
 3. Doğrusal Denklem Takımlarının Çözümü
-   - Gauss Eleminasyon / Gauss Jordan Eleminasyon yöntemlerinden birini
+   - Gauss Eleminasyon / Gauss Jordan Eleminasyon yöntemlerinden biri
 
 4. Nümerik Integral
    - Trapez yöntemi
